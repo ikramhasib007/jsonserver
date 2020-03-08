@@ -1,6 +1,6 @@
 # JSON Server
 
-## Install module using `npm install` and you need to run two commands in two different terminal
+### Install module using `npm install` and you need to run two commands in two different terminal
 
 ```
 npm run db

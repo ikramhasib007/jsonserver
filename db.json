@@ -1,3 +1,9 @@
 {
-  "blogposts": []
+  "blogposts": [
+    {
+      "title": "Blogpost title loaded ngrok json server",
+      "content": "Blogpost content loaded ngrok json server",
+      "id": 1
+    }
+  ]
 }
